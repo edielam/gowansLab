@@ -35,9 +35,9 @@ import {
 } from "reactstrap";
 
 // core components
-import ExamplesNavbar from "components/Navbars/ExamplesNavbar.js";
-import ProfilePageHeader from "components/Headers/ProfilePageHeader.js";
-import DemoFooter from "components/Footers/DemoFooter.js";
+import ExamplesNavbar from "/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/components/Navbars/ExamplesNavbar.js";
+import ProfilePageHeader from "/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/components/Headers/ProfilePageHeader.js";
+import DemoFooter from "/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/components/Footers/DemoFooter.js";
 
 function ProfilePage() {
   const [activeTab, setActiveTab] = React.useState("1");
