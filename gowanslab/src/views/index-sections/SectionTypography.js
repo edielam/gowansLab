@@ -1,21 +1,4 @@
-/*!
 
-=========================================================
-* Paper Kit React - v1.3.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
-
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // reactstrap components
@@ -146,7 +129,7 @@ function SectionTypography() {
                 <img
                   alt="..."
                   className="img-rounded img-responsive"
-                  src={require("assets/img/uriel-soberanes.jpg").default}
+                  src={require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/uriel-soberanes.jpg").default}
                 />
                 <div className="img-details">
                   <div className="author">
@@ -154,7 +137,7 @@ function SectionTypography() {
                       alt="..."
                       className="img-circle img-no-padding img-responsive"
                       src={
-                        require("assets/img/faces/joe-gardner-2.jpg").default
+                        require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/joe-gardner-2.jpg").default
                       }
                     />
                   </div>
@@ -166,7 +149,7 @@ function SectionTypography() {
                 <img
                   alt="..."
                   className="img-circle img-no-padding img-responsive"
-                  src={require("assets/img/faces/kaci-baum-2.jpg").default}
+                  src={require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/kaci-baum-2.jpg").default}
                 />
                 <p className="text-center">Brigitte Bardot</p>
               </Col>
@@ -175,7 +158,7 @@ function SectionTypography() {
                 <img
                   alt="..."
                   className="img-thumbnail img-responsive"
-                  src={require("assets/img/faces/erik-lucatero-2.jpg").default}
+                  src={require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/erik-lucatero-2.jpg").default}
                 />
                 <p className="text-center">John Keynes</p>
               </Col>

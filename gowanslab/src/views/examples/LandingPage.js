@@ -143,7 +143,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/clem-onojeghuo-3.jpg")
+                          require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/clem-onojeghuo-3.jpg")
                             .default
                         }
                       />
@@ -197,7 +197,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/joe-gardner-2.jpg").default
+                          require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/joe-gardner-2.jpg").default
                         }
                       />
                     </a>
@@ -251,7 +251,7 @@ function LandingPage() {
                       <img
                         alt="..."
                         src={
-                          require("assets/img/faces/erik-lucatero-2.jpg")
+                          require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/erik-lucatero-2.jpg")
                             .default
                         }
                       />

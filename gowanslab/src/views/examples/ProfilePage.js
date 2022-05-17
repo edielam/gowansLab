@@ -1,21 +1,4 @@
-/*!
 
-=========================================================
-* Paper Kit React - v1.3.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/paper-kit-react
-
-* Copyright 2021 Creative Tim (https://www.creative-tim.com)
-* Licensed under MIT (https://github.com/creativetimofficial/paper-kit-react/blob/main/LICENSE.md)
-
-* Coded by Creative Tim
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-*/
 import React from "react";
 
 // reactstrap components
@@ -66,7 +49,7 @@ function ProfilePage() {
               <img
                 alt="..."
                 className="img-circle img-no-padding img-responsive"
-                src={require("assets/img/faces/joe-gardner-2.jpg").default}
+                src={require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/joe-gardner-2.jpg").default}
               />
             </div>
             <div className="name">
@@ -130,7 +113,7 @@ function ProfilePage() {
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
                             src={
-                              require("assets/img/faces/clem-onojeghuo-2.jpg")
+                              require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/clem-onojeghuo-2.jpg")
                                 .default
                             }
                           />
@@ -163,7 +146,7 @@ function ProfilePage() {
                             alt="..."
                             className="img-circle img-no-padding img-responsive"
                             src={
-                              require("assets/img/faces/ayo-ogunseinde-2.jpg")
+                              require("/Users/eddie/Documents/dev Eddie/gowansLab/gowanslab/src/assets/img/faces/ayo-ogunseinde-2.jpg")
                                 .default
                             }
                           />
